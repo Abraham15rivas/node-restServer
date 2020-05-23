@@ -1,6 +1,6 @@
 
 
-## Node, Aplicación usando express y hbs
+## Node, Aplicación usando express
 
 ejecutar 
 ```

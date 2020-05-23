@@ -21,7 +21,7 @@ if (process.env.NODE_ENV === 'dev') {
 
 } else {
     // [remote - production]
-    urlDB = 'mongodb+srv://abi:@pytKjJ7$9pD_3H@cluster0-cauv9.mongodb.net/cafe'
+    urlDB = process.env.MONGO_URI
 
 }
 
