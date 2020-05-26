@@ -20,7 +20,7 @@ process.env.EXPIRES_TOKEN = 60 * 60 * 24 * 30
 // Seed authentication (key)
 // =====================================
 
-process.env.SEED = process.env.SEED || 'key_secret_development'
+process.env.SEED = process.env.SEED || 'key_secret_development_test'
 
 // =====================================
 //  Database (conection)
